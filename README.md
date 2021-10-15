@@ -63,7 +63,7 @@ I learned from this challenge how to make an image change your color in CSS, how
 ## Author
 
 - Website - [João Lucas](https://developer.mozilla.org/pt-BR/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@joaolucas-prog](https://www.frontendmentor.io/profile/joaolucas-prog)
 
 ## Acknowledgments
 
